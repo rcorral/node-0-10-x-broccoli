@@ -1,0 +1,45 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "canvas-ui-system": "0.0.7",
+    "d3": "^3.5.5",
+    "flux": "^2.0.1",
+    "humanize": "0.0.9",
+    "jquery": "^2.1.3",
+    "perfect-scrollbar": "^0.5.9",
+    "react": "^0.12.2",
+    "react-router": "^0.11.6",
+    "react-tools": "^0.12.2",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "broccoli": "^0.13.2",
+    "broccoli-asset-rev": "^2.0.0",
+    "broccoli-autoprefixer": "^2.1.0",
+    "broccoli-clean-css": "^0.3.0",
+    "broccoli-concat": "0.0.12",
+    "broccoli-env": "0.0.1",
+    "broccoli-eslint": "0.0.5",
+    "broccoli-export-tree": "^0.3.2",
+    "broccoli-file-remover": "^0.3.1",
+    "broccoli-jscs": "0.0.13",
+    "broccoli-jshint": "^0.5.3",
+    "broccoli-less-single": "^0.2.0",
+    "broccoli-merge-trees": "^0.2.1",
+    "broccoli-react": "^0.7.0",
+    "broccoli-replace": "^0.2.0",
+    "broccoli-static-compiler": "^0.1.4",
+    "broccoli-uglify-js": "^0.1.3",
+    "broccoli-webpack": "^0.1.1",
+    "chalk": "^1.0.0",
+    "jsx-loader": "^0.12.2",
+    "npm-shrinkwrap": "^5.3.0",
+    "jest-cli": "*"
+  },
+  "scripts": {
+    "test": "echo 'yay'"
+  }
+}
