@@ -40,6 +40,6 @@
     "jest-cli": "*"
   },
   "scripts": {
-    "test": "echo 'yay'"
+    "test": "echo 'build dammit'"
   }
 }
